@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d4d9c3e.chunk.css",
+    "main.js": "/static/js/main.8a93d93c.chunk.js",
+    "main.js.map": "/static/js/main.8a93d93c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.68caeb63.chunk.js": "/static/js/2.68caeb63.chunk.js",
+    "static/js/2.68caeb63.chunk.js.map": "/static/js/2.68caeb63.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a2a941f630d1518b7db20a1ca69acef5.js": "/precache-manifest.a2a941f630d1518b7db20a1ca69acef5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8d4d9c3e.chunk.css.map": "/static/css/main.8d4d9c3e.chunk.css.map",
+    "static/media/index.scss": "/static/media/Apercu-Regular.36f209f7.otf"
+  }
+}
